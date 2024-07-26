@@ -1,7 +1,7 @@
 import random
 import pygame
 
-width, height,length = 400, 400, 400
+width, height,length = 800, 800, 800
 
 class Star:
 
